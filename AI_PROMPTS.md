@@ -29,4 +29,3 @@ Reflection:
 
 ---
 
-(Add every prompt you actually used during the capstone here, with short reflection)
