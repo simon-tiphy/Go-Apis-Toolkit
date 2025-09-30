@@ -1,4 +1,4 @@
-# Go Hello API — Beginner Toolkit (Prompt-Powered Capstone)
+# Go Hello API — Beginner Toolkit
 
 This is a minimal Go project : a small HTTP API that returns JSON `{"message":"Hello, World!"}`.
 
