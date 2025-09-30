@@ -9,7 +9,7 @@ This is a minimal Go project : a small HTTP API that returns JSON `{"message":"H
 ## Files
 - `main.go` — minimal HTTP server with `/hello`
 - `hello_test.go` — unit test for the handler
-- `go.mod` — module file `https://github.com/simon-tiphy/Go-Apis-Toolkit`
+- `go.mod` — module file github.com/simon-tiphy/Go-Apis-Toolkit
 - `AI_PROMPTS.md` — sample AI prompts & reflections
 - `.gitignore`
 
